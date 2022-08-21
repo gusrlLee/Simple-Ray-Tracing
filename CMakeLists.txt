@@ -6,7 +6,7 @@ project(Simple_RayTracing)
 
 
 add_executable(${PROJECT_NAME} 
-    src/main.cpp
+    src/pi.cpp
 )
 
 include_directories(include)
