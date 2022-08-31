@@ -6,7 +6,7 @@ project(Simple_RayTracing)
 
 
 add_executable(${PROJECT_NAME} 
-    src/integrate_x_sq.cpp
+    src/main.cpp
 )
 
 include_directories(include)
